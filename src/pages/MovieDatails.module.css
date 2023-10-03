@@ -1,0 +1,28 @@
+
+.detailsContainer{
+ display: flex;
+ justify-content: center;
+ flex-wrap: wrap;
+
+}
+.col{
+    max-width: 300px;
+    margin: 15px;
+    color: aliceblue;
+    
+}
+
+.movieImage{
+    border-radius: 15px;
+    max-height: 400px;
+}
+
+.movieDetails{
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
+
+.title{
+    margin-top: 0;
+
+}

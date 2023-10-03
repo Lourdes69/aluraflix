@@ -1,0 +1,16 @@
+
+
+.footer{
+    font-size: 18px;
+    margin-top: 3rem;
+    margin-right:2rem;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+
+}
+
+.footer a:hover{
+    color: aqua;
+
+}
